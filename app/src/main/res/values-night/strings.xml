@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="introduction">Task Submission Portal</string>
+    <string name="start">START</string>
+    <string name="full_name">Full Name</string>
+    <string name="stack">Stack</string>
+    <string name="submit">SUBMIT</string>
+    <string name="stage">Input Your Stage</string>
+    <string name="appetize">Input Your Appetize.io Link</string>
+    <string name="github">Input Your GitHub Link</string>
+    <string name="back">BACK</string>
+    <string name="submission">Your Submission</string>
+</resources>

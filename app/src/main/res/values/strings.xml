@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Task Submission Portal</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="introduction">Task Submission Portal</string>
+    <string name="start">START</string>
+    <string name="full_name">Full Name</string>
+    <string name="stack">Stack</string>
+    <string name="submit">SUBMIT</string>
+    <string name="stage">Input Your Stage</string>
+    <string name="appetize">Input Your Appetize.io Link</string>
+    <string name="github">Input Your GitHub Link</string>
+    <string name="back">BACK</string>
+    <string name="submission">Your Submission</string>
+    <string name="forms">Submission Form</string>
+</resources>
